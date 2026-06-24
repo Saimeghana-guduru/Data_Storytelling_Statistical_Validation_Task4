@@ -17,6 +17,7 @@ To combine insights from Tasks 1–3 into a clear business narrative and valid
 ### 2️⃣ Final Presentation
 - Created a **PowerPoint presentation** summarizing KPIs, SQL deep‑dive analysis, and validated insights.
 - Focused on clear objectives, analysis conclusions, and actionable recommendations.
+- 📂 [Download Presentation.pptx](Presentation.pptx)
 
 ### 3️⃣ Hypothesis Testing
 Performed two statistical tests using Python and SciPy:
